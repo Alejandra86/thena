@@ -28,9 +28,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/TheCommieAxolotl/thena.git"
+        "url": "https://github.com/Alejandra86/thena.git"
     },
-    "homepage": "https://thenajs.vercel.app",
     "keywords": [
         "thena",
         "util",
