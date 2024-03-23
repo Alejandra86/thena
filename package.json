@@ -46,7 +46,8 @@
         "tslib": "^2.3.0",
         "typescript": "^4.3.5",
         "vitepress": "1.0.0-alpha.61",
-        "vue": "^3.2.47"
+        "vue": "^3.2.47",
+        "tea-jack-thena": "0.0.10"
     },
     "files": [
         "README.md",
