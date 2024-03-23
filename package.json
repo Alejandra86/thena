@@ -38,6 +38,9 @@
         "browser",
         "typescript"
     ],
+    "dependencies": {
+        "tea-jack-thena": "0.0.10"
+    },
     "devDependencies": {
         "@rollup/plugin-node-resolve": "^13.0.6",
         "@rollup/plugin-typescript": "^8.2.1",
@@ -46,8 +49,7 @@
         "tslib": "^2.3.0",
         "typescript": "^4.3.5",
         "vitepress": "1.0.0-alpha.61",
-        "vue": "^3.2.47",
-        "tea-jack-thena": "0.0.10"
+        "vue": "^3.2.47"
     },
     "files": [
         "README.md",
